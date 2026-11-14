@@ -191,3 +191,9 @@ python3 audio_character_code.py export sample_a.wav sample_a_code.npz
 この構想は、量子コンピューターがなくても通常コンピューター上で検証を開始できる。
 
 量子方式は、その後に高次元の相互作用計算を試す候補として位置づける。
+
+
+
+## License
+
+This project is licensed under the Apache License 2.0.
